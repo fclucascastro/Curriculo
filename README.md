@@ -8,7 +8,7 @@ No currículo, você encontrará informações detalhadas sobre minha formação
 
 ### **Formação Acadêmica**
 - **Tecnólogo em Redes de Computadores** – Universidade Federal do Ceará (UFC) – Campus Quixadá (Em andamento, último semestre)
-- **Técnico em Redes de Computadores** – EEEEP José Vidal Alves
+- **Técnico em Redes de Computadores** – EEEEP José Vidal Alves - 2017
 
 ### **Experiência Profissional**
 - Estágio como **Técnico em Redes de Computadores** na **Canindé-Net** (Afiliada da Sobral Net), com foco em manutenção e instalação de redes FTTH.
@@ -16,12 +16,12 @@ No currículo, você encontrará informações detalhadas sobre minha formação
 
 ### **Habilidades Técnicas**
 - **Linguagens de Programação**:  
-  - **TypeScript**: 79,5%  
-  - **JavaScript**: 11,1%  
+  - **TypeScript**
+  - **JavaScript**
   - **Python**  
-  - **CSS**: 4%  
-  - **HTML**: 2,2%  
-  - **Dockerfile**: 3,2%  
+  - **CSS**
+  - **HTML** 
+  - **Dockerfile**
 - **Ferramentas de DevOps**: Git, GitHub Actions, Terraform, Docker
 - **Redes de Computadores**: Experiência com redes FTTH, configuração de roteadores e switches, gerenciamento de infraestrutura e redes de alta performance.
 - **Automação e Infraestrutura**: Aplicação de práticas de automação de processos em ambientes de TI.
@@ -31,13 +31,9 @@ No currículo, você encontrará informações detalhadas sobre minha formação
 - **Inglês** – Básico  
 - **Espanhol** – Básico
 
-### **Certificações e Premiações**
-- **Premiação Faustino 2018** – Categoria Cloud Services.
-
 ## 🔗 Links Importantes
 
 - GitHub: [https://github.com/fclucascastro](https://github.com/fclucascastro)  
-- LinkedIn: [Seu LinkedIn]
 
 ## 💬 Como Acessar o Currículo
 
